@@ -59,11 +59,10 @@ struct Developer {
 
 ### Working on
 
--  **[TaskSched](https://github.com/ursus161/TaskSched)** — C++ RTOS-inspired task scheduler simulator. Rate Monotonic and EDF scheduling, periodic/aperiodic/critical task hierarchy with virtual diamond inheritance.
+-  **[TaskSched](https://github.com/ursus161/TaskSched)** — C++ multi-core RTOS-inspired task scheduler simulator. Rate Monotonic and EDF scheduling, periodic/aperiodic/critical task hierarchy and load-balancer.
 - **[RSA Cryptosystem](https://github.com/ursus161/rsa)** — BigInt library in C++ with Karatsuba multiplication and Barrett reduction. Full RSA key generation, encryption, and signing.  
 -  **[RISC-V Performance Analyzer](https://github.com/ursus161/riscv-performance-analyzer)** — 5-stage performance analyzer in Python with LRU cache, data forwarding, hazard detection, and a two-pass assembler.
 
----
 ---
 
 ### 📈 Activity Graph
@@ -72,7 +71,6 @@ struct Developer {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ursus161&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph">
 </p>
  
-
 ### 🐍 Contribution Snake
 
 <p align="center">
