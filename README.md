@@ -71,38 +71,14 @@ struct Developer {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ursus161&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ursus161&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursus161&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ursus161&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ursus161&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies">
-</p>
+ 
 
 ### 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ursus161&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph">
 </p>
-
-### 📋 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ursus161&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ursus161&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ursus161&theme=tokyonight" height="180" />
-</p>
+ 
 
 ### 🐍 Contribution Snake
 
