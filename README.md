@@ -71,8 +71,3 @@ struct Developer {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ursus161&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph">
 </p>
  
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ursus161/ursus161/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
