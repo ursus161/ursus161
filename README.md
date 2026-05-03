@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Stefan 👋</h1>
 
 <p align="center">
-  <em>First-year Computer Science student at the University of Bucharest (FMI)</em><br>
+  <em>Computer Science student at the University of Bucharest (FMI)</em><br>
   <em>Low-level systems, cryptography, and performance optimization</em>
 </p>
 
@@ -59,9 +59,9 @@ struct Developer {
 
 ### Working on
 
--  **[TaskSched](https://github.com/ursus161/TaskSched)** — C++ multi-core RTOS-inspired task scheduler simulator. Rate Monotonic and EDF scheduling, periodic/aperiodic/critical task hierarchy and load-balancer.
-- **[RSA Cryptosystem](https://github.com/ursus161/rsa)** — BigInt library in C++ with Karatsuba multiplication and Barrett reduction. Full RSA key generation, encryption, and signing.  
--  **[RISC-V Performance Analyzer](https://github.com/ursus161/riscv-performance-analyzer)** — 5-stage performance analyzer in Python with LRU cache, data forwarding, hazard detection, and a two-pass assembler.
+-  **[RISC-V Performance Analyzer](https://github.com/ursus161/riscv-performance-analyzer)** — 5-stage performance analyzer in Python with configurable cache, data forwarding, hazard detection, branch predictor and a two-pass assembler.
+-  **[TaskSched](https://github.com/ursus161/TaskSched)** — Buliding a SMT C++ multi-core RTOS-inspired task scheduler simulator. Deadline Monotonic, Rate Monotonic and EDF scheduling, periodic/aperiodic/critical task hierarchy and a pull load-balancer.
+- **[RSA Cryptosystem](https://github.com/ursus161/rsa)** — BigInt library in C++ with Karatsuba multiplication and Barrett reduction. Full RSA key generation and encryption.  
 
 ---
 
