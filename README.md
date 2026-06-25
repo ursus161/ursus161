@@ -63,10 +63,3 @@ struct Developer {
 -  **[TaskSched](https://github.com/ursus161/TaskSched)** — Buliding a SMT C++ multi-core RTOS-inspired task scheduler simulator. Deadline Monotonic, Rate Monotonic and EDF scheduling, periodic/aperiodic/critical task hierarchy and a pull load-balancer.
 
 ---
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ursus161&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph">
-</p>
- 
