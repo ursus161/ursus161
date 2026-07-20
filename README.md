@@ -54,12 +54,4 @@ struct Developer {
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
 </p>
-
----
-
-### Working on
-
--  **[RISC-V Performance Analyzer](https://github.com/ursus161/riscv-performance-analyzer)** — 5-stage performance analyzer in Python with configurable cache, data forwarding, hazard detection, branch predictor and a two-pass assembler.
--  **[TaskSched](https://github.com/ursus161/TaskSched)** — Buliding a SMT C++ multi-core RTOS-inspired task scheduler simulator. Deadline Monotonic, Rate Monotonic and EDF scheduling, periodic/aperiodic/critical task hierarchy and a pull load-balancer.
-
----
+ 
