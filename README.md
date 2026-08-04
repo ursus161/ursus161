@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Computer Science student at the University of Bucharest (FMI)</em><br>
-  <em>Low-level systems, cryptography, and performance optimization</em>
+  <em>Low-level systems, computer architecture, and performance optimization</em>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-### 🧠 About me
+### About me
 
 ```c
 struct Developer {
