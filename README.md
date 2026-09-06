@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Stefan 👋</h1>
 
 <p align="center">
-  <em>Computer Science student at the University of Bucharest (FMI)</em><br>
-  <em>Low-level systems, computer architecture, and performance optimization</em>
+  <em>Computer Science student at the University of Bucharest</em><br>
+  <em>I'm into low-level systems, computer architecture, and low-latency performance optimizations</em>
 </p>
 
 <p align="center">
@@ -11,24 +11,7 @@
   <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
-### About me
-
-```c
-struct Developer {
-    char name[]         = "Stefan";
-    char location[]     = "Bucharest, Romania";
-    char university[]   = "FMI, University of Bucharest";
-    char interests[][]  = { "low-level systems", "cryptography",
-                            "performance optimization", "assembly",
-                            "embedded", "machine learning" };
-    char currently[]    = "TaskSched::an RTOS-inspired C++ scheduler";
-    char learning[]     = "Rust, OS, maths for ML";
-};
-```
-
----
+ 
 
 ### Tech Stack
 
@@ -38,7 +21,6 @@ struct Developer {
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/x86--64_asm-525252?style=flat&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/RISC--V_asm-283272?style=flat&logo=riscv&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
