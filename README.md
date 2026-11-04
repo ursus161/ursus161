@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I'm Stefan 👋</h1>
 
 <p align="center">
-  <em>Computer Science student at the University of Bucharest</em><br>
+  <em>CS @ University of Bucharest</em><br>
   <em>Kernel Engineer @ NXP Semiconductors</em>
 </p>
 
